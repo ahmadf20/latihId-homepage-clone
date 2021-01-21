@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/latihId-homepage-clone/static/css/main.3758b677.chunk.css",
-    "main.js": "/latihId-homepage-clone/static/js/main.ffacf40e.chunk.js",
-    "main.js.map": "/latihId-homepage-clone/static/js/main.ffacf40e.chunk.js.map",
+    "main.js": "/latihId-homepage-clone/static/js/main.ed169067.chunk.js",
+    "main.js.map": "/latihId-homepage-clone/static/js/main.ed169067.chunk.js.map",
     "runtime-main.js": "/latihId-homepage-clone/static/js/runtime-main.c79c6fe1.js",
     "runtime-main.js.map": "/latihId-homepage-clone/static/js/runtime-main.c79c6fe1.js.map",
     "static/css/2.4d7d4b88.chunk.css": "/latihId-homepage-clone/static/css/2.4d7d4b88.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.4d7d4b88.chunk.css",
     "static/js/2.ffe55ac7.chunk.js",
     "static/css/main.3758b677.chunk.css",
-    "static/js/main.ffacf40e.chunk.js"
+    "static/js/main.ed169067.chunk.js"
   ]
 }
