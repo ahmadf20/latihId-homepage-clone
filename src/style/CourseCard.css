@@ -1,0 +1,20 @@
+.card {
+    border-radius: 11px;
+    box-shadow: 0px 2px 15px 0.5px rgba(0,0,0,0.1);
+    min-height: 290px;
+    background: #fff;
+}
+
+.card-img {
+    width: 100% !important;
+    min-height: 115px !important;
+    object-fit: cover !important;
+    border-top-right-radius: 11px;
+    border-top-left-radius: 11px;
+}
+
+.card-price {
+    position: absolute;
+    bottom: 5px;
+    color: #FF6A0E;
+}

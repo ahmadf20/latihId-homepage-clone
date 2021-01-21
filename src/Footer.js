@@ -11,7 +11,7 @@ export default function Footer() {
                         <p className="small mt-4">LatihID adalah suatu platform penyedia pelatihan gratis dan berkualitas untuk UMKM di Indonesia</p>
                     </div>
                     <div className="col">
-                        <h2 class="ft-title">Menu</h2>
+                        <h2 className="ft-title">Menu</h2>
                         <ul>
                             <li><a href="https://www.latihid.com">Beranda</a></li>
                             <li><a href="/courses">Modul</a></li>
@@ -20,7 +20,7 @@ export default function Footer() {
                         </ul>
                     </div>
                     <div className="col">
-                        <h2 class="ft-title">Info</h2>
+                        <h2 className="ft-title">Info</h2>
                         <ul>
                             <li><a href="https://www.latihid.com/p/bantuan">FAQ</a></li>
                             <li><a href="https://www.latihid.com/p/ayokolaborasi">Ayo Kolaborasi</a></li>
@@ -31,19 +31,19 @@ export default function Footer() {
                     </div>
 
                     <div className="col">
-                        <h2 class="ft-title">Ikuti Kami</h2>
+                        <h2 className="ft-title">Ikuti Kami</h2>
                         <ul>
-                            <li><a target="_blank" href="https://www.youtube.com/channel/UCi2WG2vnvehuplyf6R5T2Ew"> <i class="fa fa-youtube-play"></i> LatihID Official</a></li>
-                            <li><a target="_blank" href="https://www.instagram.com/latihidofficial/"> <i class="fa fa-instagram" ></i> @latihidofficial</a></li>
-                            <li><a target="_blank" href="https://www.facebook.com/latihidofficial/"> <i class="fa fa-facebook-square"></i> Latih ID</a></li>
+                            <li><a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UCi2WG2vnvehuplyf6R5T2Ew"> <i className="fa fa-youtube-play"></i> LatihID Official</a></li>
+                            <li><a target="_blank" rel="noreferrer" href="https://www.instagram.com/latihidofficial/"> <i className="fa fa-instagram" ></i> @latihidofficial</a></li>
+                            <li><a target="_blank" rel="noreferrer" href="https://www.facebook.com/latihidofficial/"> <i className="fa fa-facebook-square"></i> Latih ID</a></li>
 
                         </ul>
                     </div>
 
                     {/* <div className="col">
-                        <h2 class="ft-title">Jadi yang pertama mengetahui</h2>
-                        <h2 class="ft-title">update terbaru dari kami !</h2>
-                        <form action="https://latihid.us19.list-manage.com/subscribe/post?u=b9566c387466e869bbafe27aa&amp;id=55ccb2e4bd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                        <h2 className="ft-title">Jadi yang pertama mengetahui</h2>
+                        <h2 className="ft-title">update terbaru dari kami !</h2>
+                        <form action="https://latihid.us19.list-manage.com/subscribe/post?u=b9566c387466e869bbafe27aa&amp;id=55ccb2e4bd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" rel="noreferrer" novalidate="">
                             <div id="mc_embed_signup_scroll">
 
                                 <div className="mc-field-group" >
