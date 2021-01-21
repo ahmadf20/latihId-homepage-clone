@@ -21,7 +21,7 @@ class HomePage extends React.Component {
     async getModulData() {
 
         try {
-            await fetch('http://latih-id.herokuapp.com/modul')
+            await fetch('https://latih-id.herokuapp.com/modul')
                 .then(res => res.json())
                 .then(data => {
                     console.log(data);
