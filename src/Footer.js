@@ -33,16 +33,16 @@ export default function Footer() {
                     <div className="col">
                         <h2 className="ft-title">Ikuti Kami</h2>
                         <ul>
-                            <li><a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UCi2WG2vnvehuplyf6R5T2Ew"> <i className="fa fa-youtube-play"></i> LatihID Official</a></li>
-                            <li><a target="_blank" rel="noreferrer" href="https://www.instagram.com/latihidofficial/"> <i className="fa fa-instagram" ></i> @latihidofficial</a></li>
-                            <li><a target="_blank" rel="noreferrer" href="https://www.facebook.com/latihidofficial/"> <i className="fa fa-facebook-square"></i> Latih ID</a></li>
+                            <li><a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UCi2WG2vnvehuplyf6R5T2Ew"> <i className="fab fa-youtube"></i> LatihID Official</a></li>
+                            <li><a target="_blank" rel="noreferrer" href="https://www.instagram.com/latihidofficial/"> <i className=" fab fa-instagram" ></i> @latihidofficial</a></li>
+                            <li><a target="_blank" rel="noreferrer" href="https://www.facebook.com/latihidofficial/"> <i className="fab fa-facebook-square"></i> Latih ID</a></li>
 
                         </ul>
                     </div>
 
-                    {/* <div className="col">
-                        <h2 className="ft-title">Jadi yang pertama mengetahui</h2>
-                        <h2 className="ft-title">update terbaru dari kami !</h2>
+                    <div className="col">
+                        <h2 className="ft-title text-center">Jadi yang pertama mengetahui</h2>
+                        <h2 className="ft-title text-center">update terbaru dari kami !</h2>
                         <form action="https://latihid.us19.list-manage.com/subscribe/post?u=b9566c387466e869bbafe27aa&amp;id=55ccb2e4bd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" rel="noreferrer" novalidate="">
                             <div id="mc_embed_signup_scroll">
 
@@ -54,15 +54,6 @@ export default function Footer() {
                                     <input type="email" placeholder="Email" value="" name="EMAIL" className="required inputan" id="mce-EMAIL"></input>
                                 </div>
 
-                                <div id="mce-responses" className="clear">
-                                    <div className="response" id="mce-error-response" ></div>
-                                    <div className="response" id="mce-success-response" ></div>
-                                </div>
-
-                                <div aria-hidden="true">
-                                    <input type="text" name="b_b9566c387466e869bbafe27aa_55ccb2e4bd" tabindex="-1" value=""></input>
-                                </div>
-
                                 <div className="clear">
                                     <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button btnx"></input>
                                 </div>
@@ -70,7 +61,7 @@ export default function Footer() {
                             </div>
                         </form>
 
-                    </div> */}
+                    </div>
 
                 </section>
                 <section className="ft-legal">

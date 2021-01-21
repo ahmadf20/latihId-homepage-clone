@@ -159,6 +159,13 @@ class HomePage extends React.Component {
                                 alt="Third slide"
                             />
                         </div>
+                        <div>
+                            <img
+                                className="d-block w-100"
+                                src="https://uploads-ssl.webflow.com/5f13e626a1dac6a3bd6b0c13/5ffc6646e6ae96a859472787_Copy%20of%20Banner%20LIT%2017.png"
+                                alt="Forth slide"
+                            />
+                        </div>
                     </Slider>
                 </div>
 

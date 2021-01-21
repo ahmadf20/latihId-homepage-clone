@@ -28,3 +28,27 @@ ul {
     list-style: none;
     padding-left: 0;
 }
+
+.inputan {
+    border-radius: 5px;
+    border: 1px solid #E0E0E0;
+    padding: 5px 20px;
+    line-height: 28px;
+    width: 100%;
+}
+
+.btnx {
+    padding: 10px 10px !important;
+    min-width: 100px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+input[type="submit"] {
+    background-color: #ff6a0e;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    padding: 0.625rem 0.9375rem;
+    margin-top: 0.3125rem;
+}
