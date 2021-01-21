@@ -1,0 +1,128 @@
+img {
+    object-fit: contain;
+}
+
+.cover {
+    width: 100%;
+}
+
+.judul-section {
+    text-align: center;
+    font-size: 2rem;
+    color: #163F5B;
+    margin-bottom: 20px;
+}
+
+.keunggulan-img {
+    height: 80px;
+    margin-bottom: 15px;
+}
+
+.keunggulan-judul {
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 1.55;
+    font-weight: bold;
+}
+
+.keunggulan-info {
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 1.55;
+}
+
+.modul-banner {
+    width: 100%;
+    min-height: 100px;
+    background-color: #D7EFF4;
+    border-radius: 7px;
+    padding: 40px 30px;
+}
+
+.modul-banner img {
+    height: 80px;
+    object-fit: contain;
+}
+
+.banner-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.banner-btn {
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: transparent;
+    border-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    outline: none;
+    font-size: 16px;
+    line-height: 18px;
+    cursor: pointer;
+    border-radius: 9rem;
+    background: #163F5B;
+    color: #fff;
+}
+
+.banner-btn a {
+    color: #fff;
+}
+
+.banner-btn a:hover {
+    color: #fff;
+}
+
+
+.mitra-section {
+    color: white;
+}
+
+.mitra-section .col:first-child:after {
+    content:'';
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background:rgba(19, 71, 0, 0.6);
+    z-index:1;
+}
+
+.mitra-section .col:last-child:after {
+    content:'';
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    z-index:1;
+    background:rgba(0, 71, 67, 0.6);
+}
+
+.cardWrap {
+    position: inherit;
+    padding: 50px 30px;
+    line-height: 2;
+    z-index: 2;
+}
+
+.cardWrap > .banner-btn {
+    background: #FC8047;
+}
+
+.mitra-section .col {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.banner .slick-prev {
+    left: 50px !important;
+    z-index: 1;
+}
+.banner .slick-next {
+    right: 50px !important;
+    z-index: 1;
+}

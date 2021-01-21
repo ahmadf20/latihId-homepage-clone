@@ -1,0 +1,30 @@
+footer {
+    background-color: #EAF6F9;
+    color: #163F5B;
+    line-height: 1.5;
+}
+
+.ft-legal {
+    padding: 0.7rem;
+    background-color: #eaf6f9;
+    text-align: center;
+}
+
+.ft-title {
+    color: #163F5B;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #163F5B;
+    letter-spacing: 1px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
